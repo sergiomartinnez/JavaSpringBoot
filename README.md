@@ -9,7 +9,7 @@
 ------------
 ## General info
 
-In this course i learned more about Spring boot. In the files you will find only the examples of each topic that we saw in the course, it's not a project but there are a celarly examples of each topic and how to use it with simple sentence, like IoC, querymethods, JPQL, API rest, transactional, and more topics specificated in *Things learned below*.
+In this course i learned more about Spring boot. In the files you will find only the examples of each topic that we saw in the course, it's not a project but there are a clearly examples of each topic and how to use it with simple sentence, like IoC, querymethods, JPQL, API rest, transactional, and more topics specificated in *Things learned below*.
 
 ------------
 ## Technologies
